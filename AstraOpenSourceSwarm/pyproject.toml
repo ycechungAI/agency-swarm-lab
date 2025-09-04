@@ -9,7 +9,7 @@ package-mode = false
 [tool.poetry.dependencies]
 python = "^3.11"
 agency-swarm = "^0.2.5"
-gradio = "^5.11.0"
+gradio = "^5.31.0"
 astra-assistants = "^2.0.13"
 
 
